@@ -1,2 +1,3 @@
 #!/usr/bin/python3
-print(*["object-oriented", "programming", "with", "Python"], sep=" ") print()
+print(*["object-oriented", "programming", "with", "Python"], sep=" ") 
+print()
