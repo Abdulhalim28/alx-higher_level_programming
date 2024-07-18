@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-print("\n".join(f"{i} = {i:02X}" for i in range(99)))
+for i in range(99): print("{} {}".format(i, format(i, 'x')))
