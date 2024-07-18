@@ -1,4 +1,4 @@
 #!/usr/bin/python3
-number = 98
-print(f "Battery street {number}")
+number = 3.14159
+print(f"{int(number)} Battery street")
 
