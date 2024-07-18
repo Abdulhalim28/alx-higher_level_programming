@@ -1,6 +1,9 @@
 #!/usr/bin/python3
-str = "object-oriented programming with Python"
-print(str)
+str1 = "Holberton"
+str2 = "School"
+print(f"Welcome to {str1} {str2}!")
+exit(0)
+exit(0)
 
 
 
