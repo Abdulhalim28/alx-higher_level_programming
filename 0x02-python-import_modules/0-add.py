@@ -1,5 +1,7 @@
-#!/usr/bin/pyython3
+#!/usr/bin/python3
 from add_0 import add
+
 a = 1
 b = 2
-print(f"{a} + {b} = {add(a, b)}")
+
+print("%d + %d = %d" % (a, b, add(a, b)))
