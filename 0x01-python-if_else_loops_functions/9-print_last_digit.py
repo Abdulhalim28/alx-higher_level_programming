@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-def print_last_digit(number):
-        last_digit = number % 10
-            print("%d" % last_digit)
-                return last_digit
+def uppercase(str):
+        for char in str:
+  print(chr(ord(char) - 32) if 'a' <= char <= 'z' else char, end="")
+ print()
