@@ -1,6 +1,6 @@
 #!/usr/bin/pythonn3
 if __name__ == "__main__":
-     from add_0.py import add
+     from 0-add.py import add
 
      a = 1
      b = 2
